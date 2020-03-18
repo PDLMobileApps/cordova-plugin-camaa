@@ -1,6 +1,5 @@
 Modifications:
-- file plugin.xml, lines 2 and 3: renamed cordova-plugin-CAMAA to cordova-plugin-camaa
-- file package.json, line 6: renamed cordova-plugin-CAMAA to cordova-plugin-camaa
+
 
 Notes:
 - acorn needs to be updated to version 6.0.0 (npm install acorn@^6.0.0)

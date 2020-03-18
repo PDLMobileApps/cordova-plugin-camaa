@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-camaa"  version="1.0.1">
+        id="cordova-plugin-CAMAA"  version="1.0.1">
     <name>CAMAA</name>
     <description>CAMAA Cordova library plugin. </description>
     <license>Apache 2.0</license>
@@ -49,7 +49,7 @@
         <framework src="libstdc++.tbd" />
         <framework src="libz.dylib" />
         <framework src="libsqlite3.tbd" />
-        
+
         <plugins-plist key="NSLocationAlwaysUsageDescription" string="Usage statistic information" />
     </platform>
 </plugin>
